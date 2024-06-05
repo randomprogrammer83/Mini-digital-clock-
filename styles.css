@@ -1,0 +1,19 @@
+.main {
+  height: 5rem;
+  width: 10rem;
+  border: 2px solid rgb(199, 60, 60);
+  background-color: rgb(158, 91, 136);
+  margin-top: 10rem;
+  margin-left: 38rem;
+}
+.clock {
+  padding: 1rem;
+  font-weight: 900;
+  font-size: x-large;
+  padding-top: 1.8rem;
+  padding: righ:0.6rem ;
+}
+h2 {
+  margin-left: 38rem;
+  padding-top: 10rem;
+}
